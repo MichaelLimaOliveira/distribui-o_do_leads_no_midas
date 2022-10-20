@@ -1,6 +1,6 @@
 # Comandos para executar
 
 ```shell
-  chmod +x api-test.sh
-  sudo ./api-test.sh
+  chmod +x api-test2.sh
+  sudo ./api-test2.sh
 ```
